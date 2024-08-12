@@ -1,0 +1,57 @@
+body{
+    color: rgb(0, 0, 0);
+    background-color: rgb(103, 161, 212);
+    font-family: "Playwrite AR", sans-serif;
+}
+
+header{
+    border: solid 8px rgb(226, 129, 129);
+    margin: 20px;
+    font-size: 32px;
+    border-color: rgb(255, 174, 0);
+}
+
+.sess1{
+    display: flex;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    justify-content: center;
+    background-color: rgb(96, 68, 252);
+}
+
+.sess2{
+    text-align: center;
+    color: blueviolet;
+    font-size: 30px;
+}
+
+.firmes{
+    margin-left: 15%;
+    margin-right: 30%;
+}
+
+.firmes img{
+    opacity: 0.6;
+}
+
+.firmes img:hover{
+    opacity: 1.0;
+    border: 2px solid rgb(128, 0, 75);
+}
+
+.titulo{
+    margin-right: 5%;
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.firmes{
+    display: flex;
+    gap: 15px;
+}
+
+footer{
+    
+}
