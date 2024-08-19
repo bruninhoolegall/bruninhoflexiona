@@ -28,7 +28,7 @@ header{
 }
 
 .firmes{
-    margin-left: 15%;
+    margin-left: 7.5%;
     margin-right: 30%;
 }
 
@@ -48,10 +48,7 @@ header{
 }
 
 .firmes{
+    size: 200px;
     display: flex;
     gap: 15px;
-}
-
-footer{
-    
 }
